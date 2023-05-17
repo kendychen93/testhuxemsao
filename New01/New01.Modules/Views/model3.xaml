@@ -29,6 +29,7 @@
         <dxg:GridColumn FieldName="Column6"/>
         <dxg:GridColumn FieldName="Column6"/>
         <dxg:GridColumn FieldName="Column7"/>
+        <dxg:GridColumn FieldName="Column7"/>
 
 
 
