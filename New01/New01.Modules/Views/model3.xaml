@@ -22,6 +22,11 @@
         <dxg:GridColumn FieldName="Column4"/>
         <dxg:GridColumn FieldName="Column5"/>
         <dxg:GridColumn FieldName="Column6"/>
+        <dxg:GridColumn FieldName="Column6"/>
+        <dxg:GridColumn FieldName="Column6"/>
+        <dxg:GridColumn FieldName="Column6"/>
+
+
 
     </dxg:GridControl>
     <!--<dxg:GridControl ItemsSource="{Binding Items}" ShowBorder="False">
